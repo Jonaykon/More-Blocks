@@ -1,1 +1,1 @@
-[More Blocks](https://jonaykon.github.io/Scratch/More%20Blocks.js)
+[More Blocks](https://jonaykon.github.io/Turbowarp-Extensions/More%20Blocks.js)
